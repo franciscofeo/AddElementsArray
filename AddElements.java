@@ -1,5 +1,3 @@
-package br.com.abc.javacore.introducaometodos.classes;
-
 // With this package you can add any element (type: double) in your array!
 
 public class AddElements {
